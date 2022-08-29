@@ -1,0 +1,15 @@
+C:\Users\lovi05001\Documents\Programmering\Projekt 1\bin\Debug\net6.0\aaa.exe
+C:\Users\lovi05001\Documents\Programmering\Projekt 1\bin\Debug\net6.0\aaa.deps.json
+C:\Users\lovi05001\Documents\Programmering\Projekt 1\bin\Debug\net6.0\aaa.runtimeconfig.json
+C:\Users\lovi05001\Documents\Programmering\Projekt 1\bin\Debug\net6.0\aaa.dll
+C:\Users\lovi05001\Documents\Programmering\Projekt 1\bin\Debug\net6.0\aaa.pdb
+C:\Users\lovi05001\Documents\Programmering\Projekt 1\obj\Debug\net6.0\aaa.csproj.AssemblyReference.cache
+C:\Users\lovi05001\Documents\Programmering\Projekt 1\obj\Debug\net6.0\aaa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lovi05001\Documents\Programmering\Projekt 1\obj\Debug\net6.0\aaa.AssemblyInfoInputs.cache
+C:\Users\lovi05001\Documents\Programmering\Projekt 1\obj\Debug\net6.0\aaa.AssemblyInfo.cs
+C:\Users\lovi05001\Documents\Programmering\Projekt 1\obj\Debug\net6.0\aaa.csproj.CoreCompileInputs.cache
+C:\Users\lovi05001\Documents\Programmering\Projekt 1\obj\Debug\net6.0\aaa.dll
+C:\Users\lovi05001\Documents\Programmering\Projekt 1\obj\Debug\net6.0\refint\aaa.dll
+C:\Users\lovi05001\Documents\Programmering\Projekt 1\obj\Debug\net6.0\aaa.pdb
+C:\Users\lovi05001\Documents\Programmering\Projekt 1\obj\Debug\net6.0\aaa.genruntimeconfig.cache
+C:\Users\lovi05001\Documents\Programmering\Projekt 1\obj\Debug\net6.0\ref\aaa.dll
